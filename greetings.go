@@ -13,7 +13,7 @@ var greetingsData = []string{
 	"Hi, %v. Welcome!",
 	"Great to see you, %v!",
 	"Hail, %v! Well met!",
-	"你好 %v 热烈欢迎!",
+	"你好! %v 热烈欢迎!",
 }
 
 // package 初始化 自动调用
