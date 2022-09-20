@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"time"
 
-	innerShow "github.com/cxhjcloy/demo-module/greetings/showinfos"
+	innerShow "github.com/cxhjcloy/demo-module/showinfos"
 )
 
 var greetingsData = []string{
